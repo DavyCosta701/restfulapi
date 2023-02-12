@@ -1,2 +1,2 @@
 # restfulapi
-Practing an restful API emulation.
+Practing an restful API emulation using Flask.
